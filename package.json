@@ -1,0 +1,19 @@
+{
+  "name": "system-prompt-devmind-ai",
+  "version": "1.0.0",
+  "description": "System prompt for DevMind AI — a full-stack AI workspace for developers and engineers.",
+  "main": "system-prompt.md",
+  "keywords": [
+    "ai",
+    "system-prompt",
+    "devmind",
+    "claude",
+    "developer-tools"
+  ],
+  "author": "DevMind AI",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}
